@@ -21,7 +21,7 @@ int main()
 {
     int T;cin>>T;
 
-    for(int i=0;i<T;++i)
+    for(int k=0;k<T;++k)
     {
         int start[2];
         int end[2];
